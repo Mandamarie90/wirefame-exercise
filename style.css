@@ -1,0 +1,25 @@
+nav {
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+header {
+background-color:#333339;
+padding: 10px 0;
+text-align: center;
+}
+nav a{ 
+color:hwb(0 52% 47%);
+text-decoration: none;
+padding: 10px 20px;
+
+}
+body p{
+  
+}
+
+footer{
+  background-color:#333339;
+  padding:40px;
+}
